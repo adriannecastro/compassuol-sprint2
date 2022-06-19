@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CompassUOL.iml" filepath="$PROJECT_DIR$/CompassUOL.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Question1-Sprint2/Question1-Sprint2.iml" filepath="$PROJECT_DIR$/Question1-Sprint2/Question1-Sprint2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Question01/Question1-Sprint2.iml" filepath="$PROJECT_DIR$/Question01/Question1-Sprint2.iml" />
     </modules>
   </component>
 </project>
