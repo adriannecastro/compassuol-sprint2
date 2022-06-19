@@ -1,4 +1,13 @@
+CREATE SCHEMA `Movies`;
+
 USE Movies;
+
+CREATE TABLE `tbMovies` (
+    `id` INT NOT NULL AUTO_INCREMENT,
+    `name` VARCHAR(150) NOT NULL,
+    `description` VARCHAR(150) NOT NULL,
+    `year` INT NOT NULL,
+    PRIMARY KEY (`id`));
 
 INSERT INTO movie(name, description, year) VALUES ('The Godfather', 'Drama', 1972);
 INSERT INTO movie(name, description, year) VALUES ('The Assistant', 'Drama', 2019);
