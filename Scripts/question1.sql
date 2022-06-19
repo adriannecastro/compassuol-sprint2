@@ -9,4 +9,3 @@ CREATE TABLE `tbProducts` (
     `quantity` INT NOT NULL,
     `price` DOUBLE NOT NULL,
     PRIMARY KEY (`id`));
-)
