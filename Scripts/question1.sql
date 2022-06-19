@@ -1,4 +1,4 @@
-CREATE SCHEMA `Products` DEFAULT CHARACTER SET UTF-8;
+CREATE SCHEMA `Products`;
 
 USE Products;
 
