@@ -8,3 +8,11 @@
 /dataSources.local.xml
 # External tool builders
 .externalToolBuilders/
+# Files
+.idea/
+.DS_Store/
+.out/
+*.xml
+*.iml
+*.jar
+*.class
