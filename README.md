@@ -6,12 +6,14 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/adriannecastro/compassuol-sprint2?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
+> Questions 01, 02 and 03 from Sprint 2.
+
 ### Adjustments and Improvements
 
 The project is still under development and the next updates will focus on the following tasks:
 
 - [x] Question 01
-- [ ] Question 02
+- [ ] Question 02 (Incomplete question)
 - [x] Question 03
 
 ## 💻 Pre-requirements
