@@ -1,11 +1,5 @@
 ## <p align = "center">Springboot Scholarship Program - Sprint Assessment 2 📄 </p>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/adriannecastro/compassuol-sprint2?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/adriannecastro/compassuol-sprint2?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/adriannecastro/compassuol-sprint2?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/adriannecastro/compassuol-sprint2?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
-
 > Questions 01, 02 and 03 from Sprint 2.
 
 ### Adjustments and Improvements
